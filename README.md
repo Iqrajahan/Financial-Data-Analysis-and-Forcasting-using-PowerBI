@@ -1,1 +1,2 @@
 # Financial-Data-Analysis-and-Forcasting-using-PowerBI
+Developed interactive dashboards in Power BI for analyzing actuals, budgets, and forecasts by performing ETL on Excel and CSV files. Built relationships between data tables, used DAX for custom calculations, and created visualizations like bar charts, line graphs, and pie charts to display budget trends and distribution, with interactive cross-highlighting for enhanced insights. 
